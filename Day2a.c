@@ -4,17 +4,17 @@
 
 int main()
 {
-   int num1;
+    double num1;
+   double num2 ;
    
-   
-   scanf("%d",&num1);
-   
-   
+   scanf("%lf", &num1);
+    
+    scanf("%lf", &num2);
        
-       sqrt(num1);
-       printf("%d");
-       
-     
+       printf("%.0f\n",num1+num2);
+       printf("%.0f\n",num1-num2);
+       printf("%.0f\n",num1*num2);
+       printf("%.2f\n",num1/num2);
        
        
        

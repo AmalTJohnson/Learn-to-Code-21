@@ -1,4 +1,6 @@
-​#include <stdlib.h>
+/* Q - Write a C Program to determine the factorial of a number */
+
+#include <stdlib.h>
 #include <stdio.h>
 int  main()
 {

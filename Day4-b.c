@@ -1,3 +1,4 @@
+/* Q - Write a C Program to find the maximum and minimum from three user inputted numbers */
 #include <stdio.h>
 
 int main()

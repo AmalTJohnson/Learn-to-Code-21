@@ -1,3 +1,4 @@
+/* Q - Write a C Program to display each day of the week using switch case. */
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
